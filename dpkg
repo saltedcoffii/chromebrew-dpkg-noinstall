@@ -3,6 +3,5 @@
 if [ "$1" == "-i" ] || [ "$1" == "--install" ]; then
 	crew postinstall dpkg
 else
-	./dpkg~ "$@"
+	dpkg~ "$@"
 fi
-
