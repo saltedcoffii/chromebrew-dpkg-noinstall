@@ -4,6 +4,10 @@ dpkg-noinstall is an extremely simple script wrapper for dpkg that prevents dpkg
 ### Purpose
 To solve the issues listed on [chromebrew pull #4010](https://github.com/skycocker/chromebrew/pull/4910)
 
+### Contributing
+When creating an issue, please ensure the issue isn't about the dpkg.rb file in the main chromebrew repository.
+When creating a pull request, please request a merge into the dev branch as dpkg.rb downloads from the master branch.
+
 ### License
 This project is licensed under the European Union Public License version 1.2. 
 ‘Compatible Licences’ according to Article 5 EUPL are:
