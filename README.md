@@ -2,7 +2,7 @@
 dpkg-noinstall is an extremely simple script wrapper for dpkg that prevents dpkg from installing any deb files on a chromeos machine with chromebrew
 
 ### Purpose
-To solve the issues listed on [chromebrew pull #4010](https://github.com/skycocker/chromebrew/pull/4910)
+To solve the issues listed on [chromebrew pull #4910](https://github.com/skycocker/chromebrew/pull/4910)
 
 ### Contributing
 When creating an issue, please ensure the issue isn't about the dpkg.rb file in the main chromebrew repository.
